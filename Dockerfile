@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM maven
 RUN apt-get update && \
 apt-get install -y maven default-jdk git tomcat9
 RUN git clone https://github.com/jenkinsci/jenkins.git
