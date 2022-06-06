@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="376a0ee1-5586-4f8b-9949-11064113b2c9" name="Changes" comment="workir">
+    <list default="true" id="376a0ee1-5586-4f8b-9949-11064113b2c9" name="Changes" comment="22.04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654513179746</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="22.04">
+      <created>1654515032052</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654515032052</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +170,7 @@
     <MESSAGE value="maven and mvn command" />
     <MESSAGE value="mvn package" />
     <MESSAGE value="workir" />
-    <option name="LAST_COMMIT_MESSAGE" value="workir" />
+    <MESSAGE value="22.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.04" />
   </component>
 </project>
